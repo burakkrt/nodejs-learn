@@ -2,5 +2,10 @@
   "dependencies": {
     "express": "^4.19.2",
     "mongodb": "^6.6.2"
+  },
+  "devDependencies": {
+    "eslint": "^9.3.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.1.3"
   }
 }
